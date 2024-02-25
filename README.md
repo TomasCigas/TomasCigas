@@ -22,6 +22,8 @@ Hello, my name's Tomáš and I enjoy coding and gaming. Especialy when it's comb
 
 ### Databases
 - MySQL
+- PostgreSQL
 
 ### Utilities
 - Docker
+- Conda
